@@ -1,4 +1,4 @@
-# LunarLandProjectWithoutGameEngine
+# Lunar Land
 
 ![Screenshot](preview_image.png)
 
